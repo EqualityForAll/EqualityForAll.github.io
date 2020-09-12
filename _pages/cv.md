@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Austin Events"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Upcoming Events
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* April 3, 2021 3-6PM - 5600 North Interstate Highway 35, Austin, TX 78723
 
 Work experience
 ======
